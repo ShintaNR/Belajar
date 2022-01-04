@@ -12,3 +12,9 @@ https://javascript.info/
 
 
 
+Perintah Dasar Javascript dan Fungsinya
+https://dosenit.com/software/perintah-dasar-javascript
+
+Objek dan Constructor dalam Javascript
+https://www.codelogi.com/2019/07/objek-dan-constructor-dalam-javascript.html
+
