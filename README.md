@@ -19,6 +19,10 @@ Objek dan Constructor dalam Javascript
 https://www.codelogi.com/2019/07/objek-dan-constructor-dalam-javascript.html
 
 
+
 test-javascript knowledge
 https://github.com/lydiahallie/javascript-questions/blob/master/id-ID/README.md
 
+
+3 Fase Acara JavaScript
+https://ichi.pro/id/3-fase-acara-javascript-52710433319683
