@@ -32,3 +32,6 @@ https://github.com/lydiahallie/javascript-questions/blob/master/id-ID/README.md
 
 3 Fase Acara JavaScript
 https://ichi.pro/id/3-fase-acara-javascript-52710433319683
+
+Math JS 
+https://codekey.id/javascript/matematika-javascript/
